@@ -1,0 +1,21 @@
+{
+  "name": "seven-creator-kit",
+  "version": "1.0.0",
+  "description": "Deploy and revamp meme tokens on Seven Chain (Chain ID 70007). Claim free SEVEN for pump.fun and four.meme creators.",
+  "scripts": {
+    "deploy": "npx hardhat run scripts/deploy.ts --network sevenchain",
+    "deploy:bsc": "npx hardhat run scripts/deploy.ts --network bsc",
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "clean": "npx hardhat clean"
+  },
+  "keywords": ["seven-chain", "meme-token", "pump.fun", "four.meme", "erc20", "solidity", "hardhat"],
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.0",
+    "typescript": "^5.5.0",
+    "ts-node": "^10.9.0"
+  }
+}
