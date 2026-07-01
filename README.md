@@ -177,6 +177,7 @@ export default config;
 | [**seven-chain-node**](https://github.com/umairkhan2582/seven-chain-node) | Validator node client — seal blocks, earn SEVEN block rewards |
 | [**seven-chain-solver**](https://github.com/umairkhan2582/seven-chain-solver) | Bridge solver — fill cross-chain intents, earn 0.0004 BNB per relay |
 | [**seven-creator-kit**](https://github.com/umairkhan2582/seven-creator-kit) | ← You are here — token launch toolkit |
+| [**seven-gaming-sdk**](https://github.com/umairkhan2582/seven-gaming-sdk) | Gaming SDK — 1s finality on-chain games, session keys, Unreal Engine plugin |
 
 All repositories: [`github.com/topics/seven-chain`](https://github.com/topics/seven-chain)
 
